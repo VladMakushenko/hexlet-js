@@ -1,10 +1,10 @@
-import _ from "lodash";
-import React from "react";
+import _ from 'lodash';
+import React from 'react';
 
-console.log(_.last(["one", "two"]));
+console.log(_.last(['one', 'two']));
 
-console.log("Hello, hexlet!");
+console.log('Hello, hexlet!');
 
 function name(params) {
-  console.log(" fsfsfs ");
+  console.log('fsfsfs');
 }
